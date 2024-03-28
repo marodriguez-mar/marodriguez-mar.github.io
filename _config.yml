@@ -22,10 +22,15 @@ author: Michael Rodriguez
 navbar-links:
   About Me: "aboutme"
   Blogs:
-    - Beautiful Jekyll: "https://beautifuljekyll.com" # favorite media
-    - Learn markdown: "https://www.markdowntutorial.com/" # resume
-  Resume: "https://deanattali.com" # blog
-  Favorite Media: ""
+    - Journal: "blog-journal" # favorite media
+    - Work Blog: "blog-work" # resume
+  Resources: ""
+  Resume: "resume" # blog
+  Favorite Media:
+    - Podcasts: ""
+    - Books: ""
+    - Videos: ""
+    - Films: ""
   # work portfolio
   #contact
 
