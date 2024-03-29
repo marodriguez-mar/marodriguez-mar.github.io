@@ -8,6 +8,6 @@ Yeah I am pretty cool
 <div id="pdf" style="height: 800px;"></div>
 <script src="assets/js/pdfobject.min.js"></script>
 <script>
-PDFObject.embed("https://desh2608.github.io/resume_portfolio.pdf", "#pdf");
+PDFObject.embed("https://marodriguez-mar.github.io/resume_portfolio.pdf", "#pdf");
 </script>
 
