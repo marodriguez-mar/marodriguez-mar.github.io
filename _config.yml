@@ -29,7 +29,7 @@ navbar-links:
   Favorite Media:
     - Podcasts: "podcasts"
     - Books: "books"
-    - Videos: "vidoes"
+    - Videos: "videos"
   # work portfolio
   #contact
 
@@ -147,7 +147,7 @@ navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#B46100"
-hover-col: "#0471A6"
+hover-col: "#9DBED9"
 footer-col: "#EAEAEA"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
