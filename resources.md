@@ -15,19 +15,23 @@ Here are some resources that I think might be helpful for someone learning about
 - This is a nice [introduction to the foundational applied methods](https://www.wvview.org/mos.html) for data cleaning, visualization, and analytics (in R and Python) 
 
 ## <img src="https://img.icons8.com/ios/50/python--v1.png" height="50px"> Python
-- 
+- If you want to start learning Python check out the video lectures from Spatial Thoughts: [Foundation for Spatial Analytics](https://youtube.com/playlist?list=PLppGmFLhQ1HJspXSA0asH9kw1OhlLrxHT&feature=shared)
 
 ## <img src="https://img.icons8.com/windows/32/r-project.png" height="50px"> R
-- 
+- R is also a fine place to start, check out these free materials on [Open Source Spatial Analytics](https://www.wvview.org/os_sa.html)
+- Perhaps check out this additional course on [Spatial Data Science with R and the terra Library](https://rspatial.org/#google_vignette) 
 
 ## <img src="https://img.icons8.com/ios/50/qgis.png" height="50px"> QGIS
-- 
+- For a brief [introduction to the QGIS](https://courses.spatialthoughts.com/introduction-to-qgis.html) suite, Spatial Thoughts has some material
+- Check out this playlist of videos to dive into some more [intermediate tools with QGIS](https://youtube.com/playlist?list=PLLxyyob7YmEHFg5xvwszKIo_sNZbczlNC&feature=shared)
 
 ## <img src="https://img.icons8.com/ios/50/place-marker--v1.png" height="50px"> Other Open Source Tools
-- 
+- Try out the free online web mapping tool: [Felt with these videos](https://youtube.com/playlist?list=PLulpFBGeM9D56pqKcZYKOb_r10ax0Vzhy&feature=shared)
+- For another open source tool for spatiala analytics take a llok into [GeoDa](https://www.youtube.com/watch?v=IRTUkUbzpC4)
+- If you want more on web maps and have some experience with JS - [Leaflet Tutorials](https://youtube.com/playlist?list=PLDmvslp_VR0xjh7wGMNd_1kk0zUox6Sue&feature=shared) may be up your alley
 
 ## <img src="https://img.icons8.com/ios/50/world-map.png" height="50px"> More Advanced Topics
-- 
+- coming soon...
 
 
 
